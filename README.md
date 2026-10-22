@@ -1,1 +1,1 @@
-# Smart-Hostel-Managemenet-System
+# Smart-Hostel-Managemenet-and Resource Management System
